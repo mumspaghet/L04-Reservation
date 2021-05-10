@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="number_of_people_max_5">Number of people (Max 5)</string>
+    <string name="reset">RESET</string>
+    <string name="confirm">Confirm</string>
+    <string name="smoking_option">Smoking option</string>
+    <string name="choose_location_of_table">Choose location of table</string>
+</resources>
